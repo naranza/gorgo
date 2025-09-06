@@ -1,2 +1,2 @@
-# goenv
-GO ENvironment Variables
+# gorgo
+GO envirOnment vaRiables for GO
