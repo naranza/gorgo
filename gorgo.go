@@ -9,6 +9,8 @@ import (
   "strconv"
 )
 
+const Version = "v1.2025.1"
+
 func GetEnv(key, fallback string) string {
   val := os.Getenv(key)
 	if val != "" {
