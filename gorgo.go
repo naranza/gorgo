@@ -9,7 +9,7 @@ import (
   "strconv"
 )
 
-const Version = "v1.2025.1"
+const Version = "v1.2025.2"
 
 func GetEnv(key, fallback string) string {
   val := os.Getenv(key)
